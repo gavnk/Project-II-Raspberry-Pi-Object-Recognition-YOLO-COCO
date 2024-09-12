@@ -1,9 +1,9 @@
 # Neural-Network-for-Object-Detection
 
 Software:
--Tiny-Yolov3
--OpenVINO
--COCO Dataset
+- Tiny-Yolov3
+- OpenVINO
+- COCO Dataset
 
 Hardware:
 - Raspberry Pi 4B
