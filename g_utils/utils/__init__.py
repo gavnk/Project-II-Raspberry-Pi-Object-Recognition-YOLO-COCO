@@ -1,4 +1,4 @@
-__author__ = 'adrianrosebrock'
+__author__ = 'gavinkenny'
 
 # import the necessary packages
 from .conf import Conf
